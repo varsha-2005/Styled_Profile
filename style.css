@@ -1,0 +1,47 @@
+body {
+    background-color: lightgray;
+    font-family: Arial, sans-serif;
+}
+
+.profile {
+    text-align: center;
+}
+
+h1 {
+    font-size: 2.5em;
+    color: rgb(222, 99, 62);
+}
+
+h2 {
+    font-size: 1.5em;
+    color: rgb(129, 193, 57);
+}
+
+h3 {
+    font-size: 1.1em;
+    color: rgb(107, 187, 237);
+}
+
+img {
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+}
+
+p {
+    font-size: 1.2em;
+    color: rgb(47, 173, 231);
+    line-height: 1.5;
+    background-color: aquamarine;
+    border: 1px solid rgb(50, 50, 50);
+    padding: 20px;
+}
+
+section {
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    max-width: 80%;
+    margin: 20px auto;
+}
